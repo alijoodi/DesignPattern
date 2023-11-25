@@ -1,0 +1,11 @@
+E:\Projects\DesignPattern\DesignPattern.Creational\bin\Debug\net7.0\DesignPattern.Creational.deps.json
+E:\Projects\DesignPattern\DesignPattern.Creational\bin\Debug\net7.0\DesignPattern.Creational.dll
+E:\Projects\DesignPattern\DesignPattern.Creational\bin\Debug\net7.0\DesignPattern.Creational.pdb
+E:\Projects\DesignPattern\DesignPattern.Creational\obj\Debug\net7.0\DesignPattern.Creational.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\DesignPattern\DesignPattern.Creational\obj\Debug\net7.0\DesignPattern.Creational.AssemblyInfoInputs.cache
+E:\Projects\DesignPattern\DesignPattern.Creational\obj\Debug\net7.0\DesignPattern.Creational.AssemblyInfo.cs
+E:\Projects\DesignPattern\DesignPattern.Creational\obj\Debug\net7.0\DesignPattern.Creational.csproj.CoreCompileInputs.cache
+E:\Projects\DesignPattern\DesignPattern.Creational\obj\Debug\net7.0\DesignPattern.Creational.dll
+E:\Projects\DesignPattern\DesignPattern.Creational\obj\Debug\net7.0\refint\DesignPattern.Creational.dll
+E:\Projects\DesignPattern\DesignPattern.Creational\obj\Debug\net7.0\DesignPattern.Creational.pdb
+E:\Projects\DesignPattern\DesignPattern.Creational\obj\Debug\net7.0\ref\DesignPattern.Creational.dll
